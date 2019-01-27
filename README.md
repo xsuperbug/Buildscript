@@ -13,7 +13,6 @@ Below there are some of the features that NSE scripts provide
 - Backdoor detection
 - Vulnerability exploitation
 
-This tool uses the path ```/usr/share/nmap/scripts/``` where the nse scripts are located in kali linux 
 
 The tool performs the following 
 
