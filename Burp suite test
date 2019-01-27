@@ -1,1 +1,0 @@
-java -jar -Xbootclasspath/p:BurpLoader_v1.7.35.jar -jar burpsuite_pro_v1.7.35.jar
