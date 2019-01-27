@@ -28,10 +28,6 @@ The tool performs the following
 ```[Usage:] ./buildscript.sh <ip_range> <protocol> <port> <Pn (optional)>```
 
 
-```[Usage:] ./buildscript.sh <ips_file> <protocol> <port> <Pn (optional)>```
-
-
-```[Usage:] ./buildscript.sh <ip> <protocol> <port> <Pn (optional)>```
 
 ###How to run:
 
@@ -41,11 +37,6 @@ The tool performs the following
 2)
 ```./buildscript.sh 192.168.162.10-90 http 80```
 
-3)
-```./buildscript.sh 192.168.162.90 ssh 22 Pn```
-
-4)
-```./buildscript.sh IPs.txt smb 445 ```
 
 ###References :
 - https://nmap.org/book/nse.html
